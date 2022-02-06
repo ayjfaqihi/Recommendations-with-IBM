@@ -1,5 +1,5 @@
 # Disaster Response Pipeline
-##### Ahmad faqihi, 27, jan, 2022
+##### Ahmad faqihi, 6, Feb, 2022
 
 ### Project Overview
 This project examines how users interact with articles on the IBM Watson Studio platform and offers recommendations for new articles to them.
@@ -18,3 +18,4 @@ Csv file with indexed items.
 - II. Rank Based Recommendations
 - III. User-User Based Collaborative Filtering
 - IV. Matrix Factorization
+- V. Extras & Concluding
