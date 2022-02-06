@@ -14,7 +14,7 @@ Csv file with user-item interactions.
  ##### 4. articles_community.csv
 Csv file with indexed items.
 ###  Project Contant 
-> I. Exploratory Data Analysis
-II. Rank Based Recommendations
-III. User-User Based Collaborative Filtering
-IV. Matrix Factorization
+I. Exploratory Data Analysis.
+II. Rank Based Recommendations.
+III. User-User Based Collaborative Filtering.
+IV. Matrix Factorization.
